@@ -1,0 +1,47 @@
+2019-03-01 16:29:40 INFO  TestBase:35 - Initiate Browser
+2019-03-01 16:30:02 INFO  TestBase:41 - Browser Initiated
+2019-03-01 16:30:02 INFO  TestBase:52 - Test name: login
+2019-03-01 16:30:02 INFO  DemoLogin:14 - Login page is displayed
+2019-03-01 16:30:02 INFO  DemoLogin:16 - Login with  UserName: Admin , Pasword: Admin123
+2019-03-01 16:30:03 INFO  TestBase:74 - Executed test case name:login Execution Results : [TestResult name=login status=SUCCESS method=DemoLogin.login(java.lang.String, java.lang.String)[pri:0, instance:tests.DemoLogin@6ddf90b0] output={null}]
+2019-03-01 16:30:03 INFO  TestBase:61 - Closing Browser
+2019-03-01 16:30:04 INFO  TestBase:63 - Browser Closed
+2019-03-01 16:30:04 INFO  TestBase:35 - Initiate Browser
+2019-03-01 16:30:09 INFO  TestBase:61 - Closing Browser
+2019-03-01 16:30:10 INFO  TestBase:63 - Browser Closed
+2019-03-01 16:30:10 INFO  TestBase:61 - Closing Browser
+2019-03-01 16:30:10 INFO  TestBase:63 - Browser Closed
+2019-03-01 16:30:10 INFO  TestBase:61 - Closing Browser
+2019-03-01 16:30:10 INFO  TestBase:63 - Browser Closed
+2019-03-01 16:30:56 INFO  TestBase:35 - Initiate Browser
+2019-03-01 16:31:06 INFO  TestBase:41 - Browser Initiated
+2019-03-01 16:31:06 INFO  TestBase:52 - Test name: login
+2019-03-01 16:31:06 INFO  DemoLogin:14 - Login page is displayed
+2019-03-01 16:31:06 INFO  DemoLogin:16 - Login with  UserName: Admin , Pasword: Admin123
+2019-03-01 16:31:07 INFO  TestBase:74 - Executed test case name:login Execution Results : [TestResult name=login status=SUCCESS method=DemoLogin.login(java.lang.String, java.lang.String)[pri:0, instance:tests.DemoLogin@6ddf90b0] output={null}]
+2019-03-01 16:31:07 INFO  TestBase:61 - Closing Browser
+2019-03-01 16:31:07 INFO  TestBase:63 - Browser Closed
+2019-03-01 16:31:07 INFO  TestBase:35 - Initiate Browser
+2019-03-01 16:31:16 INFO  TestBase:41 - Browser Initiated
+2019-03-01 16:31:16 INFO  TestBase:52 - Test name: login
+2019-03-01 16:31:16 INFO  DemoLogin:14 - Login page is displayed
+2019-03-01 16:31:16 INFO  DemoLogin:16 - Login with  UserName: admin , Pasword: Admin123
+2019-03-01 16:31:17 INFO  TestBase:74 - Executed test case name:login Execution Results : [TestResult name=login status=SUCCESS method=DemoLogin.login(java.lang.String, java.lang.String)[pri:0, instance:tests.DemoLogin@6ddf90b0] output={null}]
+2019-03-01 16:31:17 INFO  TestBase:61 - Closing Browser
+2019-03-01 16:31:18 INFO  TestBase:63 - Browser Closed
+2019-03-01 16:31:18 INFO  TestBase:35 - Initiate Browser
+2019-03-01 16:31:26 INFO  TestBase:41 - Browser Initiated
+2019-03-01 16:31:26 INFO  TestBase:52 - Test name: login
+2019-03-01 16:31:26 INFO  DemoLogin:14 - Login page is displayed
+2019-03-01 16:31:26 INFO  DemoLogin:16 - Login with  UserName: Admin , Pasword: admin123
+2019-03-01 16:31:29 INFO  TestBase:74 - Executed test case name:login Execution Results : [TestResult name=login status=SUCCESS method=DemoLogin.login(java.lang.String, java.lang.String)[pri:0, instance:tests.DemoLogin@6ddf90b0] output={null}]
+2019-03-01 16:31:29 INFO  TestBase:61 - Closing Browser
+2019-03-01 16:31:30 INFO  TestBase:63 - Browser Closed
+2019-03-01 16:31:30 INFO  TestBase:35 - Initiate Browser
+2019-03-01 16:31:38 INFO  TestBase:41 - Browser Initiated
+2019-03-01 16:31:38 INFO  TestBase:52 - Test name: login
+2019-03-01 16:31:38 INFO  DemoLogin:14 - Login page is displayed
+2019-03-01 16:31:38 INFO  DemoLogin:16 - Login with  UserName: admin , Pasword: admin123
+2019-03-01 16:31:40 INFO  TestBase:74 - Executed test case name:login Execution Results : [TestResult name=login status=SUCCESS method=DemoLogin.login(java.lang.String, java.lang.String)[pri:0, instance:tests.DemoLogin@6ddf90b0] output={null}]
+2019-03-01 16:31:40 INFO  TestBase:61 - Closing Browser
+2019-03-01 16:31:41 INFO  TestBase:63 - Browser Closed

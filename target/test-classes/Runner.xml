@@ -1,0 +1,18 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="REGRESSION" verbose="1" configfailurepolicy="continue">
+
+<test name="LoginTest">
+    <classes>
+        <!--<class name="com.sgic.automation.orangehrm.tests.DemoLogin" />-->
+        <!--<class name="com.sgic.automation.orangehrm.tests.Entitlement" />-->
+        <!--<class name="com.sgic.automation.orangehrm.tests.Report" />-->
+        <!--<class name="com.sgic.automation.orangehrm.tests.Configure" />-->
+        <!--<class name="com.sgic.automation.orangehrm.tests.LeaveList" />-->
+
+</classes>
+
+</test>
+</suite>
